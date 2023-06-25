@@ -19,6 +19,7 @@ The dataset includes two files (```train.csv``` and ```test.csv```) and one fold
 
 ## Files
 **Report.pdf:** This file contains a comprehensive report detailing the project, including the methodology, experimental setup, results, and analysis.
+
 **Code.ipynb:** This Jupyter Notebook file contains the code implementation for the project. It includes object recognition using YOLOv5n and image classification using VGG16, MobileNet, and DenseNet121 models.
 
 If you have any questions or suggestions, please feel free to reach out. Happy exploring!
