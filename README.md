@@ -18,7 +18,7 @@ The dataset consists of labeled images representing different types of visual po
 The dataset includes two files (```train.csv``` and ```test.csv```) and one folder (```images```). The ```train.csv``` file contains information such as class, image_path, name, xmax, xmin, ymax, and ymin. On the other hand, the ```test.csv``` file only contains image_path, as it is originally designed for competition purposes.
 
 ## Files
-- [**Report.pdf:**](Report Project Deep Learning.pdf) This file contains a comprehensive report detailing the project, including the methodology, experimental setup, results, and analysis.
+- [**Report.pdf:**]([Report Project Deep Learning.pdf])) This file contains a comprehensive report detailing the project, including the methodology, experimental setup, results, and analysis.
 - [**Code.ipynb:** ](Group_7.ipynb)This Jupyter Notebook file contains the code implementation for the project. It includes object recognition using YOLOv5n and image classification using VGG16, MobileNet, and DenseNet121 models.
 
 If you have any questions or suggestions, please feel free to reach out. Happy exploring!
