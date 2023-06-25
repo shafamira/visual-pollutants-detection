@@ -14,6 +14,7 @@ The dataset consists of labeled images representing different types of visual po
 - SAND ON ROAD
 - CLUTTER_SIDEWALK
 - UNKEPT_FACADE
+
 The dataset includes two files (```train.csv``` and ```test.csv```) and one folder (```images```). The ```train.csv``` file contains information such as class, image_path, name, xmax, xmin, ymax, and ymin. On the other hand, the ```test.csv``` file only contains image_path, as it is originally designed for competition purposes.
 
 ## Files
